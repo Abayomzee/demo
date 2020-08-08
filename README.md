@@ -4,4 +4,4 @@ This is a very simple readMe file
 
 # Heading two
 
-A master update
+Heading now added to the file
